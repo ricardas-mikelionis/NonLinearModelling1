@@ -7,7 +7,7 @@ def addition(kv1, kv2):
             res = [0, 0, 0, 0]
             return res
         else:
-            res = [kv1[0]+kv2[0],kv1[1]+kv2[1],kv1[2]+kv2[2],kv1[3]+kv2[3]]
+            res = [kv1[0]+kv2[0], kv1[1]+kv2[1], kv1[2]+kv2[2], kv1[3]+kv2[3]]
             return res
 
 
